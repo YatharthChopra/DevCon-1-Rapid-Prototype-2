@@ -6,6 +6,8 @@ TagManager:
   tags:
   - headlightLeft
   - headlightRight
+  - Ramp_Purple
+  - Ramp_Gold
   layers:
   - Default
   - TransparentFX
