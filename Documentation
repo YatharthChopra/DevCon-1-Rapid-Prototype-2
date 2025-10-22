@@ -1,1 +1,20 @@
+Game Mechanic or Feature:
+What are you making? We are making a 3D car racing game using a 2D car as our player component to control the vechicle around. We are adding boost pads and ramps for the 2D car vechicle to maintain its speed control or having speed limiters to prevent the vechicle exceeding it speed limit which will be perform in an safe range area. They still need to go at an certain speed so they don’t hit any obstacles that is in their path. For example, the player would use around 70km/h on their speed because their would be signs or indicators included on the ramps telling you what speed you need to achieve that jump. In terms of this game, it doesn’t matter “how fast you can go with the vechicle” but how you can maintain your speed when going over any types of ramps with your vechicle to complete the game.
 
+Objective Statement:
+What question are you trying to answer with this prototype?
+Using the example of the Turtle and the Hare, the player has to maintain their own speed to get enough of a boosts by going at not a slow pace but also not going at an fast pace. How we can work over these problems is by adding shortcuts or a speed boosts to correctly time the limit amount of driving the right speed going over the ramps along the tracks. You can also add another question to this main question: How does it feel to not go so fast but to learn how to maintain your own speed when driving an vechicle?
+
+Detail Design Rationale:
+Experience Envisioned: The goal of this design is to make the player learn how to control their speed and feel very excited when playing the game. It adds this effect to the player by the usage of visual and agility which shows the player to be an quicker thinker in certain scenarios when racing along the tracks and limiting your speed when going of ramps in the race course. We are also going to add signs to not have an sighttrending in gameplay to include more things in the game.
+Innovation/Experimental Aspects:
+Environmental - Some of the challenges include ramp jumping and also picking which ramp you want to choose. For example, you have an 50km ramp on purple, an 100km ramp on yellow, than whatever ramp that would be that approaches next would display on the ramp of what speed to go when your going on the ramp.
+Emotional Engagement: The game is colorful and has alot of creative things put into it to give the player a feel of happniess and plainning their thinking so you know how to time your jumps. So the player would hear the sound of the car engine and would be seeing the speed of their limit saying this is how fast I should go and I got to keep my speed limit in this range. Another idea for this would be to have a sign that says don’t drive past the sign if you are driving backwards which would show tension and being creative with what options you have.
+Innovative: The usage of creating an 2D car to play at the start of the screen is innovative to make the car have an x and y position to maintain those position while being on track. It was also innovative to add light bracks at the back and headlights at the front of the car to make it seem you are driving an actual car and to have the experience as the player to keep track of their speed and to be competitive or creative when they are trying to complete the game.
+Resource Citation:
+Tangible Resources: The player 3rd-person view camera, a build terrain - From the Unity Assets store, a 3D Car.
+Educational Resources:
+We use concept learning throughout the program, learning how to input different code into the script, having the proper tools to complete the project: Like using the markdown format website for documentation, using the unity assets store to add input these in the project, and etc.
+
+Transformative Resources:
+There was no usage of AI generation
